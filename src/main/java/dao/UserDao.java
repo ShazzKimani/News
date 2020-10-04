@@ -19,4 +19,4 @@ public interface UserDao {
 
     //DELETE
     void deleteById(int id);
-
+}
