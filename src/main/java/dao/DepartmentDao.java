@@ -18,4 +18,4 @@ public interface DepartmentDao {
     //DELETE
     void deleteById(int id);
     void deleteAll();
-
+}
